@@ -58,7 +58,6 @@ graph TD
 |----------------|----------------|----------------|
 | [A Multi-aspect Analysis of Automatic Essay Scoring for Brazilian Portuguese](https://www.semanticscholar.org/paper/A-Multi-aspect-Analysis-of-Automatic-Essay-Scoring-Amorim-Veloso/fb619c5a074393efbaa865f24631598350cf1fef)    | Evelin Amorim, Adriano Veloso    | 10.18653/V1/E17-4010    |
 | [TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring](https://www.semanticscholar.org/paper/TDNN%3A-A-Two-stage-Deep-Neural-Network-for-Automated-Jin-He/440263ac821f0fc448d2cd0ad218623da81adee9)    | Cancan Jin, Ben He, Kai Hui, Le Sun    | 10.18653/v1/P18-1100    |
-
 | [Graph Attention Networks](https://arxiv.org/abs/1710.10903)    | Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio    | 10.48550    |
 
 
